@@ -1,0 +1,13 @@
+#main {
+    width: 500px; 
+    height: 500px;
+}
+
+
+#lala{
+    display: inline-block;
+    background-color: #E0E0D1;
+    width: 6.25%;
+    height: 6.25%;
+    box-sizing:border-box;
+}
