@@ -1,13 +1,18 @@
+
+
+
 #main {
-    width: 500px; 
-    height: 500px;
+    width: 600px; 
+    height: 600px;
+    border-style: dotted;
+    display: grid;
+    grid-template-columns: repeat(16, 1fr);
 }
 
 
-#lala{
-    display: inline-block;
-    background-color: #E0E0D1;
-    width: 6.25%;
-    height: 6.25%;
-    box-sizing:border-box;
+
+
+
+#lala:hover{
+    background-color: blue;
 }
